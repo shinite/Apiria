@@ -1,0 +1,66 @@
+
+.inputField{
+	border: none;
+	width: 150px;
+	text-align: right;
+}
+
+.error{
+  font-size: 15px;
+	color: red;
+	margin-left: 300px;
+}
+
+.mydropzone{
+	text-align: center;
+	height:250px;
+	max-width: 50%;
+	border: 1px dashed black;
+	margin-left: 300px;
+	margin-top: 20px;
+	padding:20px;
+
+}
+
+.cloud{
+	width: 120px;
+	height: 80px;
+}
+
+.viewDBbutton{
+	background-color: #0099ff;
+    border: none;
+    color: white;
+    padding: 20px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+		margin-left: 560px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+}
+.browse{
+	background-color: #e6e6e6;
+	border: 1px solid #0099ff;
+	width:150px;
+	margin-left: 250px;
+	font-size: 22px;
+	color: #0099ff;
+	padding:10px;
+}
+
+.drag{
+	font-size: 26px;
+	margin-top: 20px;
+
+}
+.or{
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.tableDisplay{
+	margin-left: 180px;
+	margin-bottom: 50px;
+}

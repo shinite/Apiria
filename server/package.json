@@ -1,0 +1,16 @@
+{
+  "name": "expressproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "~1.15.1",
+    "express": "^4.13.4",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.9",
+    "serve-favicon": "~2.3.0"
+  },
+}
