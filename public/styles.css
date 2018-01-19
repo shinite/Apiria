@@ -29,22 +29,22 @@
 
 .viewDBbutton{
 	background-color: #0099ff;
-    border: none;
-    color: white;
-    padding: 20px 36px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-		margin-left: 560px;
-		margin-top: 20px;
-		margin-bottom: 20px;
+	border: none;
+	color: white;
+	padding: 20px 36px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin-left: 540px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 .browse{
 	background-color: #e6e6e6;
 	border: 1px solid #0099ff;
 	width:150px;
-	margin-left: 250px;
+	margin-left: 230px;
 	font-size: 22px;
 	color: #0099ff;
 	padding:10px;
@@ -61,6 +61,6 @@
 }
 
 .tableDisplay{
-	margin-left: 180px;
+	margin-left: 160px;
 	margin-bottom: 50px;
 }
