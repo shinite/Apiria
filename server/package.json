@@ -12,5 +12,5 @@
     "mongodb": "^3.0.1",
     "mongoose": "^4.13.9",
     "serve-favicon": "~2.3.0"
-  },
+  }
 }
